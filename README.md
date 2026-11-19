@@ -7,6 +7,8 @@ I'm Principal at 4th Culture in Toronto. I design products and build them with a
 - [4th Culture](https://4thcltr.com/): an independent practice built to make technology more expressive and recognizably human without surrendering judgment
 - [Heuristic analyses](https://heuristics.4thcltr.com/) of well-known sites, each finding tied to a capture
 - [Papers](https://papers.4thcltr.com/), including the [AI Use Levels](https://papers.4thcltr.com/ai-use-levels/) spec
+- [BinderCurve](https://bindercurve.com/): tools for tuning trading card game decks
+- [MoonMan](https://playmoonman.com/): an endless runner for phones, set in space, on the App Store and Google Play
 - [gorfed.net](https://gorfed.net/): my design work, apps and music
 
 ## Background
