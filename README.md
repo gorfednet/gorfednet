@@ -16,7 +16,7 @@ I'm Principal at 4th Culture in Toronto. I design products and build them with a
 - 8 years in TD Invent's Human-Centered Design Practice, with 2 patents as co-inventor
 - Directed UX and UI at Klick for a health-transport platform acquired in 2018
 - Co-founded TowIt in 2015, named one of the 12 best apps made in Canada
-- Raised across Canada, Dubai and Cairo, and based in Toronto since 2002
+- Raised across Canada, UAE and Egypt, and based in Toronto since 2002
 
 ## Reach me
 
