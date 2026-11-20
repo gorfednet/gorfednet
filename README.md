@@ -9,8 +9,8 @@ Products for the web, iPhone and Android, front end to back end. Claude Code age
 - [4th Culture](https://4thcltr.com/): an independent practice built to make technology more expressive and recognizably human without surrendering judgment
 - [Heuristic analyses](https://heuristics.4thcltr.com/) of well-known sites and identified patterns
 - [Papers](https://papers.4thcltr.com/), including the [AI Use Levels](https://papers.4thcltr.com/ai-use-levels/) spec ([on GitHub](https://github.com/gorfednet/ai-use-levels))
-- [BinderCurve](https://bindercurve.com/): fresh free trading card game community tools
 - [MoonMan](https://playmoonman.com/): a minimalist gravity escape game with multi-platform support
+- [BinderCurve](https://bindercurve.com/): fresh free trading card game community tools, in beta
 - [ACID2Reaper](https://github.com/gorfednet/ACID2REAPER): converts ACID projects into REAPER sessions. A Python command-line tool and desktop app, in beta.
 - [gorfed.net](https://gorfed.net/): my personal hub, portfolio and archive since 2002
 - Stack: React, TypeScript, Node, PostgreSQL, Docker, nginx, Cloudflare and GitHub Actions
