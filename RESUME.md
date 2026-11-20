@@ -64,9 +64,15 @@ Apr 2013 – Apr 2014
 - First product designer. Hired for the team and directed its work. Wrote the documentation system, the metrics and a 50-skill ladder with 4 levels.
 - Clients included Chapters Indigo and C Spire.
 
+### Blast Radius · Interaction Designer
+
+Jul 2011 – Apr 2013
+
+- Linked client stakeholders with delivery teams for BMW, Land Rover, Nike, Microsoft, Hugo Boss and Novartis.
+- IA and UX architect for the MyBMW owner portal. Concept and experience architecture for Range Rover's launch iPad app. Interaction owner on Nike Pro Training × Sport Chek for 3 seasons.
+
 ## Earlier
 
-- Interaction Designer · Blast Radius · Range Rover, BMW, Nike, Microsoft · Jul 2011 – Apr 2013
 - Art Director · Mouth Media · Mar 2010 – Apr 2011
 - Partner & Creative Director · Chiqpea · Jul 2009 – Mar 2010
 - Interactive Designer & Developer · Freelance · Feb 2007 – Jul 2009
