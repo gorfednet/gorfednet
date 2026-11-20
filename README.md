@@ -12,6 +12,7 @@ Products for the web, iPhone and Android, front end to back end. Claude Code age
 - [MoonMan](https://playmoonman.com/): a minimalist gravity escape game with multi-platform support
 - [BinderCurve](https://bindercurve.com/): fresh free trading card game community tools, in beta
 - [ACID2Reaper](https://github.com/gorfednet/ACID2REAPER): converts ACID projects into REAPER sessions. A Python command-line tool and desktop app, in beta.
+- [plex-lastfm-sync](https://github.com/gorfednet/plex-lastfm-sync): keeps Plex 5-star ratings and Last.fm loves in sync. A self-hosted Node.js service with no dependencies.
 - [gorfed.net](https://gorfed.net/): my personal hub, portfolio and archive since 2002
 - Stack: React, TypeScript, Node, PostgreSQL, Docker, nginx, Cloudflare and GitHub Actions
 
@@ -34,4 +35,4 @@ Electronic music as Gorf since 2003, on [gorfed.net/music](https://gorfed.net/mu
 [![4thcltr.com](https://img.shields.io/badge/4thcltr.com-0c0f15?style=for-the-badge)](https://4thcltr.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gorfed/)
 
-AI Use: L3 · made · undo · Claude Opus 5.5 + Claude Fable 5.2
+AI Use: L3 · made · undo · Claude Opus 5.5 + Claude Fable 5.2 + Claude Sonnet 5.5
