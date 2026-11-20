@@ -21,7 +21,7 @@ Products for the web, iPhone and Android, front end to back end. Claude Code age
 
 ## Infrastructure
 
-Every site is served from a server I run myself. Cloudflare Pages is set up as a second deploy target. No site serves from it yet. Encrypted backups run every night, with a copy off-site. The shared CI and tooling are public in [gorfednet/.github](https://github.com/gorfednet/.github).
+My sites run on my own server, with Cloudflare Pages alongside. The shared CI and tooling are public in [gorfednet/.github](https://github.com/gorfednet/.github).
 
 - CI on a self-hosted Linux pool
 - Reusable checks and an AI reviewer on pull requests
