@@ -11,13 +11,12 @@ Products for the web, iPhone and Android, front end to back end. Claude Code age
 - [Papers](https://papers.4thcltr.com/), including the [AI Use Levels](https://papers.4thcltr.com/ai-use-levels/) spec ([on GitHub](https://github.com/gorfednet/ai-use-levels))
 - [MoonMan](https://playmoonman.com/): a minimalist gravity escape game with multi-platform support
 - [BinderCurve](https://bindercurve.com/): fresh free trading card game community tools, in beta
-- [ACID2Reaper](https://github.com/gorfednet/ACID2REAPER): converts ACID projects into REAPER sessions. A Python command-line tool and desktop app, in beta.
 - [gorfed.net](https://gorfed.net/): my personal hub, portfolio and archive since 2002
 - Stack: React, TypeScript, Node, PostgreSQL, Docker, nginx, Cloudflare and GitHub Actions
 
 ## Infrastructure
 
-My sites run on my own server, with Cloudflare Pages alongside. The shared CI and tooling are public in [gorfednet/.github](https://github.com/gorfednet/.github).
+My sites run on my own server, with Cloudflare Pages alongside.
 
 - CI on a self-hosted Linux pool
 - Reusable checks and an AI reviewer on pull requests
