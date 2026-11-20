@@ -88,6 +88,7 @@ Apr 2013 – Apr 2014
 ## Education
 
 - Toronto Metropolitan University · Image Arts, New Media
+- Humber College · Computer Programming Analyst
 - University of Wollongong, Dubai · Computer Science
 
 ## Lecturing and certification
