@@ -104,5 +104,5 @@ Jul 2011 – Apr 2013
 
 ## 2026 tooling & delivery stack
 
-- Claude Code, Herdr, Llama
+- Claude, Herdr, Llama
 - React, TypeScript, Node, PostgreSQL, Docker, nginx, Cloudflare, GitHub Actions
