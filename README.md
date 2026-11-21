@@ -34,4 +34,4 @@ Electronic music as Gorf since 2003, on [gorfed.net/music](https://gorfed.net/mu
 [![4thcltr.com](https://img.shields.io/badge/4thcltr.com-0c0f15?style=for-the-badge)](https://4thcltr.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gorfed/)
 
-AI Use: L3 · made · undo · Claude Fable 5.2 + Claude Sonnet 5.5
+AI Use: L3 · made · undo · Claude Opus 5.5 + Claude Fable 5.2 + Claude Sonnet 5.5
