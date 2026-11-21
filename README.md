@@ -1,6 +1,14 @@
 # Michael Duncan McArthur
 
-I'm Principal at 4th Culture in Toronto, where I design and build products.
+I'm Principal at 4th Culture, a practice in Toronto. It's for founders and product leaders whose product feels the same as everything else.
+
+- People choose products that stand apart. I'll find what sets yours apart and take it from strategy to shipped software.
+- Design leadership, product strategy, research, and design and build through to live operations
+- On every engagement I lead the work myself and still build. For 27+ years I've shaped products that are complex, regulated and closely scrutinized.
+
+## Working with me
+
+The smallest way to start is a [heuristic analysis of your product](https://4thcltr.com/assessment). Each finding says what was seen, why it matters and what to do.
 
 ## What I build
 
@@ -16,14 +24,6 @@ Products for the web, iPhone and Android, front end to back end. Claude Code age
 - [gorfed.net](https://gorfed.net/): my personal hub, portfolio and archive since 2002
 - Stack: React, TypeScript, Node, PostgreSQL, Docker, nginx, Cloudflare and GitHub Actions
 
-## Infrastructure
-
-My sites run on my own server, with Cloudflare Pages alongside. The shared CI and tooling are public in [gorfednet/.github](https://github.com/gorfednet/.github).
-
-- CI on a self-hosted Linux pool
-- Reusable checks and an AI reviewer on pull requests
-- A merge bot for reviewed and green pull requests
-
 ## Music
 
 Electronic music as Gorf since 2003, on [gorfed.net/music](https://gorfed.net/music/).
@@ -35,4 +35,4 @@ Electronic music as Gorf since 2003, on [gorfed.net/music](https://gorfed.net/mu
 [![4thcltr.com](https://img.shields.io/badge/4thcltr.com-0c0f15?style=for-the-badge)](https://4thcltr.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gorfed/)
 
-AI Use: L3 · made · undo · Claude Opus 5.5 + Claude Fable 5.2 + Claude Sonnet 5.5
+AI Use: L3 · made · undo · Claude Fable 5.2 + Claude Sonnet 5.5
