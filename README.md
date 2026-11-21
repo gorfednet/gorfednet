@@ -25,7 +25,7 @@ Products for the web, iPhone and Android, front end to back end. Claude Code age
 
 ## Music
 
-Electronic music as Gorf since 2003, on [gorfed.net/music](https://gorfed.net/music/).
+Electronic music as Gorf since 2003, on [gorfmusic.com](https://gorfmusic.com).
 
 ## Reach me
 
