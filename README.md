@@ -21,6 +21,7 @@ Products for the web, iPhone and Android, front end to back end. Claude Code age
 - [ACID2Reaper](https://github.com/gorfednet/ACID2REAPER): converts ACID projects into REAPER sessions. A Python command-line tool and desktop app, in beta.
 - [plex-lastfm-sync](https://github.com/gorfednet/plex-lastfm-sync): keeps Plex 5-star ratings and Last.fm loves in sync. A self-hosted Node.js service with no dependencies.
 - [gorfed.net](https://gorfed.net/): my personal hub, portfolio and archive since 2002
+- [How the fleet runs](https://github.com/gorfednet/.github/blob/main/docs/how-the-fleet-runs.md): how Desk, ship-bot and the agents ship changes
 - Stack: React, TypeScript, Node, PostgreSQL, Docker, nginx, Cloudflare and GitHub Actions
 
 ## Music
