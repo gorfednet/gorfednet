@@ -1,8 +1,8 @@
 # Michael Duncan McArthur
 
-I'm Principal at 4th Culture, an independent practice built to make technology more expressive and recognizably human without surrendering judgment. It's for founders and product leaders whose product feels the same as everything else.
+I'm Principal at [4th Culture](https://4thcltr.com/), an independent practice in Toronto built to make technology more expressive and recognizably human without surrendering judgment. It's for founders and product leaders whose product feels the same as everything else.
 
-- People choose products that stand apart. I'll find what sets yours apart and take it from strategy to shipped software.
+- People choose products that stand apart. I'll find what sets yours apart.
 - Design leadership, product strategy, research, and design and build through to live operations
 - On every engagement I lead the work myself and still build. For 27+ years I've shaped products that are complex, regulated and closely scrutinized.
 
@@ -14,7 +14,6 @@ The smallest way to start is a [heuristic analysis of your product](https://4thc
 
 Products for the web, iPhone and Android, front end to back end. Claude Code agents do much of the building under my direction.
 
-- [4th Culture](https://4thcltr.com/): product strategy, design and delivery, based in Toronto
 - [Heuristic analyses](https://heuristics.4thcltr.com/) of well-known sites and identified patterns
 - [Papers](https://papers.4thcltr.com/), including the [AI Use Levels](https://papers.4thcltr.com/ai-use-levels/) spec ([on GitHub](https://github.com/gorfednet/ai-use-levels))
 - [MoonMan](https://playmoonman.com/): a minimalist gravity escape game with multi-platform support
