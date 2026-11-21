@@ -102,6 +102,7 @@ Jul 2011 – Apr 2013
 - George Brown, Sheridan · Guest lecturer
 - Accessibility Champion Network · AA certified, 2024
 
-## 2026 delivery stack
+## 2026 tooling & delivery stack
 
+Claude Code, Herdr, Llama
 React, TypeScript, Node, PostgreSQL, Docker, nginx, Cloudflare, GitHub Actions
