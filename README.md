@@ -19,6 +19,7 @@ Products for the web, iPhone and Android, front end to back end. Claude Code age
 - [MoonMan](https://playmoonman.com/): a minimalist gravity escape game with multi-platform support
 - [BinderCurve](https://bindercurve.com/): fresh free trading card game community tools, in beta
 - [gorfed.net](https://gorfed.net/): my personal hub, portfolio and archive since 2002
+- [How the fleet runs](https://github.com/gorfednet/.github/blob/main/docs/how-the-fleet-runs.md): how Desk, ship-bot and the agents ship changes
 - Stack: React, TypeScript, Node, PostgreSQL, Docker, nginx, Cloudflare and GitHub Actions
 
 ## Music
